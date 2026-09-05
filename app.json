@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "AutomotiveXperts",
+    "slug": "automotivexperts-mobile",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "de.automotivexperts.mobile"
+    },
+    "android": {
+      "package": "de.automotivexperts.mobile"
+    }
+  }
+}
